@@ -80,7 +80,7 @@ On the contrary, the least popular stations do not seem to line up as much. The 
 I also find it interesting that we see a drop in trip counts over the month of August. Could this be due to the lack of events in the nearby area? Or is it more to due with the weather? Looking at temperature data and noteable landmarks could give us more insight as to why this phenomenon is occuring. 
 
 # Tableau Dashboard/ Project
-https://public.tableau.com/views/CitiBikeStationPopularity_17303983898990/PopularityofStationbyDate?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[https://public.tableau.com/views/CitiBikeStationPopularity_17303983898990/PopularityofStationbyDate?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/W6K5ZKT65?:display_count=n&:origin=viz_share_link)
 
 # Data Sources
 https://citibikenyc.com/system-data
